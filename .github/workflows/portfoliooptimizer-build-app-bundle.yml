@@ -62,7 +62,7 @@ env:
   DEMO_RDATA: ""
   EXTRA_PKGS: ""
   EXCLUDE: "rsconnect,.github"
-  ARCHIVE_URLS: ""
+  ARCHIVE_URLS: "https://github.com/AnalytixWare/ShinySky/archive/refs/heads/master.tar.gz"
   EXTRA_REPOS: ""
   SOFT_PKGS: ""
   SOURCE_REBUILD: ""
