@@ -60,7 +60,7 @@ env:
   DEMO_OBJECT: ""
   DEMO_SAVE_AS: ""
   DEMO_RDATA: ""
-  EXTRA_PKGS: ""
+  EXTRA_PKGS: "plyr,RJSONIO"
   EXCLUDE: "rsconnect,.github"
   ARCHIVE_URLS: "https://github.com/AnalytixWare/ShinySky/archive/refs/heads/master.tar.gz"
   EXTRA_REPOS: ""
